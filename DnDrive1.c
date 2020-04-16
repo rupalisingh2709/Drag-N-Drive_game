@@ -1,5 +1,14 @@
-/* First Complete version of the game "Drag 'n' Drive.
-	version 1.14 */
+/* First Complete version of the game "Drag 'n' Drive (A car racing game)
+	version 1.14*/
+
+/* Copyright 2020 Rupali Singh and Aniket Kumar
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0 */
+
 
 #include<graphics.h>
 #include<stdio.h>
