@@ -1,6 +1,7 @@
 # car_racing_game
 A simple but interesting car racing game coded in c language.
 
+
 Copyright 2020 Rupali Singh and Aniket Kumar
 
 Licensed under the Apache License, Version 2.0 (the "License");
